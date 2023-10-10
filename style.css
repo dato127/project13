@@ -1,0 +1,302 @@
+*
+{
+    background-color: #2B2B2B;
+    text-decoration: none;
+    margin: 0%;
+}
+/*navigator class*/
+.navbar{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    align-content: center;
+    flex-wrap: nowrap;
+    Padding:20px 50px 20px 50px
+   
+}
+/*logo*/
+#divlogo {
+    display: flex;
+    justify-content: center;
+    width: 243px;
+    height: 32px;
+    
+}
+/*div logoshi img-s gavuwere id-ad id1*/
+#id1 {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 10px;
+    width: 32px;
+    height: 32px;
+  
+    
+}
+/*ul tag-is id navshi */
+#first {
+    list-style: none;
+    display: flex;
+    align-items: center;
+   
+  
+}
+/*ul tagis shvilobili elementi */
+li{
+    font-size: 16px;
+    font-weight: bold;
+    margin-right: 20px;
+}
+/*li-s shvilobili elementi romelic gamoviyene texstis feris shesacvlelad */
+a {
+    color: #FFFFFF;
+}
+/* aq weria sing up gilakis borderis feri zoma vizualri mxare   */
+#button1 {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    background-color: #A259FF;
+    border-radius: 20px;
+    width: 152px;
+    height: 60px;
+    padding: 0px 30px 0px 30px;
+ 
+ 
+    
+}
+
+
+#a1 {
+    color: #FFFFFF;
+    font-weight: bold;
+    background-color: #A259FF;
+    
+    
+    
+}
+  #img1 {
+    display: flex;
+    justify-content: center;
+    width: 20px;
+    height: 20px;
+    background-color: #A259FF;
+    
+    
+    
+    
+
+}
+/*mocemulia NFT MARKETPLACE-s shigtavsis informacia*/
+#a2 {
+    color: #ffffff;
+    font-size: 20px;
+    margin-left: 10px;
+    margin-top: 5px;
+    font-family: sans-serif;
+}
+.div1 {
+    display: flex;
+    justify-content: center;
+    padding: 80px 195px 80px 195px;
+    
+    
+    
+    
+}
+
+h1 {
+    font-size: 67px;
+    color: #FFFFFF;
+    margin-top: 0%;
+    margin-bottom: 20px;
+    margin-right: 10px;
+}
+.paragraph1 {
+    font-size: 22px;
+    color: #FFFFFF;
+}
+.text {
+   display: flex;
+    
+    
+}
+    
+  
+#paragraph1{
+    width: 510px;
+    height: 105px;
+    line-height: 35px;
+    font-size: 22px;
+    color: #FFFFFF;
+}
+#imgborder {
+    width: 20px;
+    height: 20px;
+    border-radius: 20px;
+    background-color: #A259FF;
+    
+    
+}
+#buttonsize{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-content: center;
+    width: 224px;
+    height: 60px;
+    margin-top: 30px;
+    background-color: #A259FF;
+    border-radius: 20px;
+    
+}
+#acolor {
+   
+    color: #FFFFFF;
+    background-color: #A259FF;
+    font-size: 16px;
+    font-family: sans-serif;
+}
+#aldiv {
+    display: flex;
+    justify-content: center;
+    height: 704px;
+    padding: 80px 195px 80px 195px;
+}
+#h1p {
+    width: 510px;
+    height: 347px;
+}
+#aldiv2 {
+    display: flex;
+    align-content: center;
+    align-items: center;
+    width: 510px;
+    height: 77px;
+    padding-top: 30px;
+    left: 10px;
+   color: #FFFFFF;
+}
+#size {
+    font-size: 28px;
+    line-height: 39px;
+    
+}
+#size2{
+    font-size: 24px;
+    line-height: 39px;
+}
+#width {
+    width: 150px;
+    height: 77px;
+}
+#img2 {
+    width: 510px;
+    height: 510px;
+    border: 20px;
+    padding: 20px;
+}
+
+#trending {
+    display: flex;
+    justify-content: center;
+    width: 1046px;
+    height: 46px;
+    padding: 80px 0px 80px 0px;
+    justify-content: space-between;
+    color: #FFFFFF;
+    margin-left: 150px;
+}
+#headingsize{
+    font-size: 38px;
+}
+#paragraphsize {
+    font-size: 22px;
+}
+#imginline {
+    display: flex;
+    justify-content: space-around;
+    padding: 0px 130px;
+    
+}
+#Secondarydiv {
+    display: flex;
+   
+}
+#size4 {
+    width: 100px;
+    height: 100px;
+    border-radius: 20px;
+    color: #FFFFFF;
+    font-size: 22px;
+    background-color: #A259FF;   
+}
+#color1025 {
+    background-color: #A259FF;
+}
+#Placeholder1 {
+    display: flex;
+}
+#alfotoalign {
+    display: flex;
+    justify-content: space-between;
+    padding: 0px 120px;
+   margin-top: 10px;
+   border: 10px;
+   flex-wrap: wrap;
+}
+#andalign {
+    display: flex;
+  
+}
+#popo {
+    display: flex;
+}
+div {
+   margin-left: 10px;
+}
+#DSGAnimals{
+    line-height: 30px;
+    
+}
+
+#DSG {
+    font-size: 22px;
+    color: #FFFFFF;
+    padding: 0 10px;
+
+}
+#Animals {
+    display: flex;
+    align-items: center;
+    color: #FFFFFF;
+}
+#digital {
+    display: flex;
+    justify-content: space-around;
+}
+#Magic {
+    font-size: 22px;
+    color: #FFFFFF;
+}
+#Mushrooms {
+    display: flex;
+    align-items: center;
+    color: #FFFFFF;
+}
+#magicmushrooms {
+    padding-left: 40px;
+    line-height: 30px;
+}
+#Disco {
+    display: flex;
+    align-items: center;
+}
+#discomachines {
+    color: #FFFFFF;
+    padding-right: 165px;
+    line-height: 30px;
+
+}
+#disco1 {
+    font-size: 22px;
+}
